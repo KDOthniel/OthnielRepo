@@ -17,5 +17,9 @@ I don't know how this works but I want to try again..
 
 LET ME SEE.. 
 
+<<<<<<< HEAD
 
 I would like to tell you what I told prof Greg..
+=======
+I told professor Grey to wait for a second.. 
+>>>>>>> d456e9385dd335879f4159b559f8db8cf78006b3
