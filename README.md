@@ -4,7 +4,6 @@ For testing all this.
 
 It is good having you!
 
-I knew this would work..
-but wait let see again.. Shall we?
+This is a change from Github
 
-I think so..
+Can I change this from R?
